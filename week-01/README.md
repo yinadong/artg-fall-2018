@@ -6,6 +6,7 @@ Download the following software (creating an account where necessary)
 - [ ] Git ([link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
 - [ ] Python (if you have a Mac, you already have it installed)
 - [ ] Set up a Github account
+- [ ] Sublime text or some other code editor of your choice
 
 _Once signed up, please log your information in this public [google doc](https://docs.google.com/spreadsheets/d/1UijNUcn92i9X39A9pS0Ql-5ArxPfgWWrwXGBEcobAZU/edit#gid=0)_
 
