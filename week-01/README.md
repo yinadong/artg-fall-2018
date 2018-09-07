@@ -1,18 +1,18 @@
 #Week 1: Setting up the working environment
 
-##Software
+## Software
 Download the following software (creating an account where necessary)
 - [ ] Slack (for course communication)
-- [ ] Git 
+- [ ] Git ([link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
 - [ ] Python (if you have a Mac, you already have it installed)
 - [ ] Set up a Github account
-_Please email me your Github and Slack handle._
+_Once signed up, please log your information in this public [google doc](https://docs.google.com/spreadsheets/d/1UijNUcn92i9X39A9pS0Ql-5ArxPfgWWrwXGBEcobAZU/edit#gid=0)_
 
 
-##Working with the Command Line
+## Working with the Command Line
 The command line provides a simple way to interact with the operating system, and we will make extensive use of it throughout the course. You don't need to become an expert in it--yet. We'll start slow by working through the following tasks. Much of the following is Mac-specific, but parallel instructions exist for PC as well.
 
-###Navigation
+### Navigation
 First, open the command line by going to "Application/Terminal". A window opens with `$` followed by an input cursor. This is where you'll input your command.
 
 To navigate to a specific folder, use the following command (note space after `cd`):
@@ -31,8 +31,8 @@ To navigate back to the root folder:
 ```
 cd $HOME
 ```
-
-###Create a folder for this course
+ 
+### Create a folder for this course
 First, navigate to the root folder, and then, create a folder for all working files related to this course:
 ```
 cd $HOME
@@ -54,9 +54,11 @@ Navigate to the working folder we've just created.
 cd $HOME/artg-5330
 ```
 ### Step 3
-All the course material lives in an online "repository". The current online ("remote") repository is at [this location](). Your job is to create a local mirror of it on your computer.
+All the course material lives in an online "repository". The current online ("remote") repository is at [this location](https://github.com/Siqister/artg-fall-2018). Your job is to create a local mirror of it on your computer.
 
-Navigate to the online repo, and "fork" it. Then, copy the clone link.
+** Make sure you "fork" this repo first so that you create a repo of your own **
+Navigate to the online repo, and "fork" it. Then, copy the "clone" link (big green button).
+
 ### Step 4
 Back in the terminal, use `git clone` to create a local copy of the remote repo:
 ```
