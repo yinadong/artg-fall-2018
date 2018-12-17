@@ -16,8 +16,8 @@ footer{
 	position:absolute;
 }
 .sidebar{
-	background:yellow;
-	top:0;
+	background:red;
+	top:0px;
 	bottom:100px;
 	left:0;
 	right:70%;

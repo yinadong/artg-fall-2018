@@ -1,0 +1,16 @@
+html,body,div,h1,h2,p{
+	margin:0;
+	padding:0px;
+}
+
+.container{
+	background:white;
+	top:0;
+	bottom:100px;
+	left:0%;
+	right:0;
+}
+
+
+
+

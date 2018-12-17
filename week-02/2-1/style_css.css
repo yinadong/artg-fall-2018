@@ -1,0 +1,29 @@
+
+
+
+html,body,h1,h2,h3,p,div,ul,li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+body{
+   font-family:'Helvetice', sans-serif;
+   font-size:a6px;
+}
+
+h1{
+	font-size:3rem;
+	border-borttom:2px solid black;
+}
+h2{
+	font-size:2rem;
+}
+a {
+	border:1px solid red;
+}
+
+path{
+	fill:rgb(0,0,255);
+}
+

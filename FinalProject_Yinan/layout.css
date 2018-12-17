@@ -1,0 +1,38 @@
+html,body,div,h1,h2,h3,ul,li,p{
+ margin:0;
+ padding:0px;
+    color: white;    
+}
+
+.container{
+ top:0;
+ bottom:100px;
+ left:0%;
+ right:0;
+}
+
+.h2 {
+ font-size: 2em;
+ color: white;
+}
+
+.p {
+ font-size: 1em;
+ color: white;
+}
+
+.h3{
+ font-size: 2em;
+ color: white;
+}
+
+.li{
+ font-size: 1em;
+ color: white;
+}
+
+html,body{
+ height: 100%;
+ background: black;
+ font-family: sans-serif;
+}

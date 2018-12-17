@@ -9,3 +9,8 @@ html,body,h1,h2,h3,div,p,ul,li{
 	background:red;
 	margin:auto;
 }
+
+.group circle{
+	stroke:yellow;
+	stroke-width:2px;
+}

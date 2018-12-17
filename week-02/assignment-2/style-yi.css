@@ -1,0 +1,59 @@
+
+
+
+html,body,div,h1,h2,p{
+	margin:0;
+	padding:10px;
+}
+
+html,body,.container{
+	width:100%;
+	height:100%;
+	position:relative;
+}
+
+.sidebar,
+.main-viz,
+footer{
+	position:absolute;
+}
+
+.main-viz
+.interbox{
+	position:absolute;
+}
+
+.sidebar{
+	background:pink;
+	top:0;
+	bottom:210px;
+	left:0;
+	right:30%;
+}
+.main-viz{
+	background:cornflowerblue;
+	top:0;
+	bottom:210px;
+	left:80%;
+	right:18px;
+}
+footer{
+	background:burlywood;
+	bottom:0;
+	width:98%;
+	height:200px;
+	right:18px;
+}
+
+.sidebar #module{
+	box-sizing:border-box;
+	border:1.5px solid lightyellow;
+	height: 200px;
+}
+
+.interbox{
+	box-sizing: content-box;
+	left:80%;
+	border:1.5px solid lightyellow;
+	height:200px;
+}
